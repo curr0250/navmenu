@@ -21,6 +21,7 @@ html, body{
 }
 h1{
     font-size: 6.854rem;
+    text-align: center;
     /* ADD the Google serif font to this font stack */
     font-family: 'Lora', 'Book Antiqua', Palatino, serif;
     padding: 1rem 2rem;
